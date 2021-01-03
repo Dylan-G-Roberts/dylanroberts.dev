@@ -1,0 +1,25 @@
+{
+  "name": "dylanroberts.dev",
+  "version": "1.0.0",
+  "description": "Hello World!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dylan-G-Roberts/dylanroberts.dev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dylan-G-Roberts/dylanroberts.dev/issues"
+  },
+  "homepage": "https://github.com/Dylan-G-Roberts/dylanroberts.dev#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "autoprefixer": "^10.1.0",
+    "postcss": "^8.2.2",
+    "tailwindcss": "^2.0.2"
+  }
+}
